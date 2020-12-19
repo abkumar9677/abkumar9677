@@ -1,6 +1,7 @@
-<center>### Hi there 👋
+
+### Hi there 👋
 I'm 
-# Abhishek Kumar</center>
+# Abhishek Kumar
 <!--
 **abkumar9677/abkumar9677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
