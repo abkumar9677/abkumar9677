@@ -2,8 +2,9 @@
 ### Hi there 👋
 I'm 
 # Abhishek Kumar
-![AK](https://i.postimg.cc/J0tPzxY9/IMG-20191007-WA0012.jpg)
+
 <!--
+![AK](https://i.postimg.cc/J0tPzxY9/IMG-20191007-WA0012.jpg)
 **abkumar9677/abkumar9677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
