@@ -2,7 +2,7 @@
 ### Hi there 👋
 I'm 
 # Abhishek Kumar
-
+<img align="right" src="https://i.postimg.cc/d3qQdKhf/robotintro-unscreen.gif" width="300px" height="300px" />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abkumar9677&label=Views&color=blue&style=plastic" alt="abkumar" /> </p>
 
 <a href="https://twitter.com/abkumar9677">
