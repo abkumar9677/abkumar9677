@@ -58,6 +58,8 @@ Here are some ideas to get you started:
  
  [![GitHub abkumar9677](https://img.shields.io/github/followers/abkumar9677?label=follow&style=social)](https://github.com/abkumar9677)
  
+ [![website](https://img.shields.io/badge/abkumar9677-blue?style=flat-square&logo=google-chrome)](https://abkumar9677.github.io/Portfolio/)
+ 
 <hr/>
 <br/>
 
@@ -80,3 +82,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/abkumar9677">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abkumar9677&theme=dark&hide_langs_below=1" />
 </a>
+<a href="https://github.com/abkumar9677">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=abkumar9677&show_icons=true&theme=dark&line_height=27" alt="ab's github stats"/>
+</a>
+
+<div align="center">
+
+#### Show some 💗 by starring some of the repositories!
+
+</div>
